@@ -1,2 +1,2 @@
-# crwn-clothing
-Crown Clothing Exercise
+# initial-template
+Initial Template Exercise
